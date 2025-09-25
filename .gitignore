@@ -1,0 +1,15 @@
+# API keys / environment variables
+.env
+
+# Virtual environments
+env/
+env1/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+check_env.py
+
+.vscode/
